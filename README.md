@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Agribusiness-Software%20Engineering-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Target-USA-blue?style=for-the-badge">
 </p>
-https://github.com/user-attachments/assets/a218baf2-cfae-48c1-8c7b-013e10a7215d
 
 <h1 align="center">Enzo Oliveira</h1>
 <p align="center"><strong>Agribusiness + Software Engineering</strong></p>
