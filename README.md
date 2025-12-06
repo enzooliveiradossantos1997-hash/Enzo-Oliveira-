@@ -56,7 +56,7 @@ Repositories will be added gradually with full documentation and demonstrations.
 ## 📫 Contact
 
 *Email:enzooliveiradossantos1997@gmail.com
-*LinkedIn:* add here  
+
 *Current focus:* Agritech Development + Software Engineering
 
 ---
