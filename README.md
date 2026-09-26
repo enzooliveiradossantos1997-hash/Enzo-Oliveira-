@@ -5,60 +5,56 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agritech-Innovation-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Agribusiness-Software%20Engineering-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Target-USA-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Software%20Engineering-MSc-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Target-USA%20%7C%20EB--2%20NIW-orange?style=for-the-badge">
 </p>
 
 <h1 align="center">Enzo Oliveira</h1>
-<p align="center"><strong>Agribusiness + Software Engineering</strong></p>
-<p align="center"><strong>Agritech | Data | IoT | AI for Agriculture</strong></p>
+<p align="center"><strong>Agribusiness Specialist · Software Engineer · AI for Agriculture</strong></p>
+<p align="center">
+  Building AI-driven platforms to reduce agricultural financial risk and support food security in the United States.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Graduated in *Agribusiness Management* and currently pursuing a *Master’s in Software Engineering*.  
-I connect technology and the field through projects involving *AI, data analytics, IoT, automation and software development for agriculture*.  
-My goal is to build a solid *AgTech portfolio, create real-impact solutions, and position myself for future international opportunities in the **United States*.
+MSc candidate in **Software Engineering**, undergraduate in **Agribusiness Management**.  
+I build end-to-end systems connecting **Machine Learning, REST APIs, and data pipelines** to solve real-world agricultural problems — from climate risk prediction to farm cost intelligence.
+
+> 🇧🇷 → 🇺🇸 Brazil-to-USA career track | EB-2 NIW (National Interest Waiver)
 
 ---
 
-## 🛠 Technologies I Work With
+## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white">
-<img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/IoT-2088FF?style=for-the-badge&logo=esp32&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 </p>
 
 ---
 
-## 🚀 Relevant Projects (in progress)
+## 🚀 Projects
 
-| Code | Project | Field | Status |
+| Project | Description | Stack | Status |
 |---|---|---|---|
-| PP1 | AgroData Dashboard | Data/Climate | Base completed |
-| PP2 | FarmTrace Blockchain | Agro Blockchain | Under development |
-| PP3 | SmartFarm AI | AI Forecasting | Initial model |
-| PP4 | AgroIoT | Sensors & Automation | Prototype |
-| PP5 | RuralManager | Farm Management System | Core structure ready |
-
-Repositories will be added gradually with full documentation and demonstrations.
+| [AgroShield AI](https://github.com/enzooliveiradossantos1997-hash/enzooliveiradossantos1997-arcanjo) | Climate risk prediction system for US agriculture using ML and NOAA data | Python · FastAPI · Scikit-learn | 🔨 In Development |
+| FarmMargin | Agricultural financial intelligence platform — tracks farm costs, predicts savings with AI, and supports purchasing decisions | FastAPI · Next.js · PostgreSQL · Docker | 🔨 In Development |
 
 ---
 
 ## 📫 Contact
 
-*Email:enzooliveiradossantos1997@gmail.com
-
-*Current focus:* Agritech Development + Software Engineering
+- **Email:** enzooliveiradossantos1997@gmail.com
+- **Focus:** Agritech · AI for Agriculture · Food Security · Climate Risk
 
 ---
 
-<p align="center"><i>"Technology shaping the future of agriculture."</i></p>
+<p align="center"><i>"Technology shaping the future of agriculture and food security."</i></p>
