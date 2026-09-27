@@ -45,8 +45,9 @@ I build end-to-end systems connecting **Machine Learning, REST APIs, and data pi
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [AgroShield AI](https://github.com/enzooliveiradossantos1997-hash/enzooliveiradossantos1997-arcanjo) | Climate risk prediction system for US agriculture using ML and NOAA data | Python · FastAPI · Scikit-learn | 🔨 In Development |
-| FarmMargin | Agricultural financial intelligence platform — tracks farm costs, predicts savings with AI, and supports purchasing decisions | FastAPI · Next.js · PostgreSQL · Docker | 🔨 In Development |
+| [AgroShield AI](https://github.com/enzooliveiradossantos1997-hash/agroshield-ai) | AI-driven climate risk & grain storage spoilage mitigation system for US agriculture using NOAA datasets | Python · Scikit-learn · FastAPI · NOAA APIs | 🟢 Active Engineering |
+| [FarmMargin Platform](https://github.com/enzooliveiradossantos1997-hash/farmmargin-platform) | Enterprise Agrofinancial Intelligence SaaS — real-time grain & input hedging, silo arbitrage, and AI decision support | Next.js 16 · React 19 · TypeScript · Tailwind v4 · HMAC Crypto | 🟢 Active Engineering |
+| [FarmMargin Core Engine](https://github.com/enzooliveiradossantos1997-hash/farmmargin-core-engine) | Quantitative financial engine for agricultural break-even modeling, risk contracts, and executive PDF reporting | Python · Algorithmic Finance · FPDF · CustomTkinter | 🟢 Active Engineering |
 
 ---
 
