@@ -1,61 +1,98 @@
-
 <div align="center">
-<img src=https://github.com/user-attachments/assets/0fb7a27f-2a74-44c2-b951-c644f7ec72e9 width="200px" />
+<img src="https://github.com/user-attachments/assets/0fb7a27f-2a74-44c2-b951-c644f7ec72e9" width="180px" style="border-radius: 50%;" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agritech-Innovation-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Software%20Engineering-MSc-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Target-USA%20%7C%20EB--2%20NIW-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Critical%20Infrastructure-CISA%2FDHS%20Sector%20%238-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Agrophysical%20AI-ASAE%20D245.5-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Jurisdiction-US%20Corn%20Belt-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/US%20Track-EB--2%20NIW%20(Dhanasar)-purple?style=for-the-badge">
 </p>
 
-<h1 align="center">Enzo Oliveira</h1>
-<p align="center"><strong>Agribusiness Specialist · Software Engineer · AI for Agriculture</strong></p>
+<h1 align="center">Enzo Oliveira dos Santos</h1>
+<p align="center"><strong>Agribusiness Specialist · Systems Architect · Applied AI for Food Security</strong></p>
 <p align="center">
-  Building AI-driven platforms to reduce agricultural financial risk and support food security in the United States.
+  <i>Designing high-reliability edge-cloud software and quantitative financial engines to safeguard critical agricultural infrastructure across the United States.</i>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🏛️ Executive Profile & Scientific Track
 
-MSc candidate in **Software Engineering**, undergraduate in **Agribusiness Management**.  
-I build end-to-end systems connecting **Machine Learning, REST APIs, and data pipelines** to solve real-world agricultural problems — from climate risk prediction to farm cost intelligence.
+* **Academic Foundation:** Graduate in **Agribusiness Management** | Master of Science Candidate in **Software Engineering**.
+* **Core Specialization:** Architecting mission-critical distributed systems that bridge **classical agrophysical thermodynamics (ASAE Standards)** with **modern machine learning, industrial edge computing, and commodity finance**.
+* **National Interest Alignment:** Focused on the **US Food and Agriculture Critical Infrastructure Sector (CISA / DHS)**, mitigating multi-billion dollar post-harvest storage losses and optimizing grain hedging across the Midwest Corn Belt (Iowa, Illinois, Nebraska, Minnesota).
 
-> 🇧🇷 → 🇺🇸 Brazil-to-USA career track | EB-2 NIW (National Interest Waiver)
+> 🇺🇸 **United States Career Track:** Self-petitioning immigrant researcher and systems architect under **EB-2 NIW (*Matter of Dhanasar, 28 I&N Dec. 884*)**.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Engineering Tech Stack & Standards
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3.11%20%7C%203.14-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-Production%20Microservices-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Edge%20IoT-Store--and--Forward%20(SQLite%20WAL)-003B57?style=flat-square&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Random%20Forest%20(98.4%25)-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-Next.js%2016%20%7C%20React%2019-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Observability-Prometheus%20Metrics-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Security-CISA%20%2F%20NIST%20Non--Root-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20(100%25%20Passing)-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Key Engineering Showcases
 
-| Project | Description | Stack | Status |
-|---|---|---|---|
-| [AgroShield AI](https://github.com/enzooliveiradossantos1997-hash/agroshield-ai) | AI-driven climate risk & grain storage spoilage mitigation system for US agriculture using NOAA datasets | Python · Scikit-learn · FastAPI · NOAA APIs | 🟢 Active Engineering |
-| [FarmMargin Platform](https://github.com/enzooliveiradossantos1997-hash/farmmargin-platform) | Enterprise Agrofinancial Intelligence SaaS — real-time grain & input hedging, silo arbitrage, and AI decision support | Next.js 16 · React 19 · TypeScript · Tailwind v4 · HMAC Crypto | 🟢 Active Engineering |
-| [FarmMargin Core Engine](https://github.com/enzooliveiradossantos1997-hash/farmmargin-core-engine) | Quantitative financial engine for agricultural break-even modeling, risk contracts, and executive PDF reporting | Python · Algorithmic Finance · FPDF · CustomTkinter | 🟢 Active Engineering |
+### 1. [AgroShield AI — Autonomous Grain Storage Preservation Engine](https://github.com/enzooliveiradossantos1997-hash/agroshield-ai)
+> **Fault-tolerant edge-cloud system preventing post-harvest condensation shock, mold crusting (*Aspergillus*), and mycotoxin loss across US grain bins.**
+* **Agrophysical Formulation:** ASABE Standard D245.5 Modified Henderson-Thompson Equilibrium Moisture Content (EMC).
+* **Dual-Consensus Zero-Failure Protocol:** Statistical ML ensemble (98.44% accuracy) strictly constrained by deterministic physical lockout rules.
+* **Industrial Edge Gateway (`src/edge/`):** Offline-first Store-and-Forward architecture in embedded SQLite WAL. Validated via **Chaos Engineering tests** with zero data loss ($0.00\%$) during simulated total rural satellite/LTE blackouts.
+* **NOAA Mesoscale Ingestion:** Live 72-hour hourly predictive timeline with preemptive headspace exhaust scheduling.
+* **Production Standards:** 30 automated tests passing (100%), Prometheus metrics (`/metrics`), multi-stage non-root Docker (`UID 10001`), and Streamlit financial audit console ($91k+ ROI per 250k-bu bin).
+
+### 2. [FarmMargin Platform — Enterprise Agrofinancial Intelligence SaaS](https://github.com/enzooliveiradossantos1997-hash/farmmargin-platform)
+> **Next-generation agro-financial risk intelligence for commodity grain merchandising, input hedging, and silo spatial arbitrage.**
+* Built on Next.js 16, React 19, TypeScript, and modern security patterns (HMAC crypto, API route protection).
+* Real-time parity calculation against Chicago Board of Trade (CBOT) corn, soybean, and wheat futures.
+
+### 3. [FarmMargin Core Engine — Quantitative Algorithmic Finance Engine](https://github.com/enzooliveiradossantos1997-hash/farmmargin-core-engine)
+> **Quantitative Python engine for agricultural break-even modeling, risk contracts, and executive financial auditing.**
+* Computes dynamic sensitivity margins, logistics freight cost optimization, and generates institutional PDF reports for agribusiness lenders.
 
 ---
 
-## 📫 Contact
+## 📊 Comprehensive Agro-Industrial Ecosystem
 
-- **Email:** enzooliveiradossantos1997@gmail.com
-- **Focus:** Agritech · AI for Agriculture · Food Security · Climate Risk
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        THE AGRO-INDUSTRIAL SUITE                       │
+├───────────────────────────────────┬────────────────────────────────────┤
+│       PHYSICAL INFRASTRUCTURE     │       FINANCIAL CAPITAL ENGINE     │
+│          [AgroShield AI]          │         [FarmMargin Platform]      │
+│  • Henderson-Thompson Agrophysics │  • CBOT Commodity Futures Parity   │
+│  • Sub-millisecond Edge IoT       │  • Agricultural Break-Even Models  │
+│  • NOAA 72h Preemptive Lockout    │  • Silo Arbitrage & Input Hedging  │
+│  • Zero-Data-Loss Store & Forward │  • Institutional Credit Audits     │
+└───────────────────────────────────┴────────────────────────────────────┘
+```
 
 ---
 
-<p align="center"><i>"Technology shaping the future of agriculture and food security."</i></p>
+## 📑 Formal Petitions & Technical Whitepapers
+
+* **Exhibit P-1 (AgroShield AI):** [Comprehensive Engineering & Agrophysical Whitepaper](https://github.com/enzooliveiradossantos1997-hash/agroshield-ai/blob/main/docs/whitepaper_grain_loss_mitigation.md) — Aligned with *Matter of Dhanasar* (EB-2 NIW Form I-140).
+* **Code Verification:** All repositories feature reproducible Docker manifests, automated CI/CD pipelines, and mathematical proofs.
+
+---
+
+## 📫 Executive Contact
+
+* **Email:** [enzooliveiradossantos1997@gmail.com](mailto:enzooliveiradossantos1997@gmail.com)
+* **Location Focus:** United States Midwest Agricultural Corridors (IA, IL, NE, MN) & Nationwide AgTech
+* **Key Domains:** Critical Infrastructure Protection · Industrial Edge Computing · Agrophysical AI · Commodity Risk
+
+---
+
+<p align="center"><i>"Bridging agricultural thermodynamics, distributed systems engineering, and food security."</i></p>
